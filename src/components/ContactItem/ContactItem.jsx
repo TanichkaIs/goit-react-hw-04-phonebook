@@ -14,4 +14,3 @@ export const ContactItem = ({ name, number, id, onDeleteContact }) => {
     </>
   );
 };
-

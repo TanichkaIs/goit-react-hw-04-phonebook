@@ -7,7 +7,7 @@ padding: 20px;
 width: 300px;
 border: 1px solid black;
 border-radius: 5px;
-`;
+`
 export const Label = styled.label`
 margin-bottom: 10px;
 width: 300px;
@@ -15,7 +15,7 @@ display: flex;
 justify-content: space-between;
 /* font-size: 18px;
 font-weight: 500; */
-`;
+`
 export const Button = styled.button`
 margin-top: 10px;
 cursor: pointer;
@@ -29,4 +29,4 @@ background-color: lightgreen;
     font-weight: bold; 
     background: lightgreen;   
 }
-` ;
+` 
